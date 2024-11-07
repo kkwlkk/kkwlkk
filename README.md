@@ -12,12 +12,12 @@
   </div>
 </div>
 
-  <div style="flex: 1; display: flex; flex-direction: row; gap: 4px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkwlkk&theme=react&hide_border=true" alt="kkwlkk" style="width: 100%; height: 120px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkwlkk&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kkwlkk" style="width: 100%; height: 120px;" />
+  <div style="flex: 1; display: flex; flex-direction: row; gap: 4px; align-items: center; justify-content: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkwlkk&theme=react&hide_border=true" alt="kkwlkk" style="width: 240px; height: 120px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkwlkk&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kkwlkk" style="width: 240px; height: 120px;" />
   </div>
 
-  <table style="text-align: center; width: 100%; border-collapse: collapse; margin-top: 25px;">
+  <table style="text-align: center; width: 100%; border-collapse: collapse; margin-top: 25px; display: flex; flex: 1; align-items: center; justify-content: center;">
   <tr>
   <tr height="80px">
     <th>
