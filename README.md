@@ -11,6 +11,7 @@
   </div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkwlkk&theme=react&hide_border=true" alt="kkwlkk" style="width: 420px; height: 120px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkwlkk&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kkwlkk" style="width: 420px; height: 120px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kkwlkk&theme=react&show_icons=true&hide_border=true&count_private=false" alt="kkwlkk" style="width: 420px; height: 120px;" />
 </div>
 
 <table style="text-align: center; width: 100%; border-collapse: collapse; margin-top: 25px;">
