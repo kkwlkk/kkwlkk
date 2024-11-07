@@ -1,12 +1,22 @@
-<h1 align="left" id="header">:wave: Hi there! Im kkwlkk.</h1>
-<h3 align="left" style="margin-top: -30px; font-size: 15px; font-weight: 700; opacity: 50%">Actually its wlk but it was taken already :pensive:</h3>
+<p align="left" style="font-size: 30px; font-weight: 800;" id="header">:wave: Hi there! Im kkwlkk.</h1>
+<p align="left" style="font-size: 15px; font-weight: 700; opacity: 50%; margin-top: -20px;">Actually its wlk but it was taken already :pensive:</h3>
 
-<div style="display: flex; justify-content: space-between; gap: 0px;">
-  <img src="https://raw.githubusercontent.com/kkwlkk/github-stats-transparent/output/generated/overview.svg" alt="kkwlkk" style="width: 50%;" />
-  <img src="https://raw.githubusercontent.com/kkwlkk/github-stats-transparent/output/generated/languages.svg" alt="kkwlkk" style="width: 50%;" />
+<div style="display: flex; gap: 5px;">
+  <ul style="width: 50%;">
+  <li>:mortar_board: Software enthusiast with experience in web development and backend development</li>
+  <li>:books: Learning new things everyday!</li>
+  <li>:briefcase: Currently, I mainly work as a freelancer</li>
+  <li>:cat: Loving dad of a short-haired british female cat</li>
+</ul>
+
+ <div style="width: 50%;">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkwlkk&theme=react&hide_border=true" alt="kkwlkk" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkwlkk&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kkwlkk" />
+ </div>
 </div>
 
-<table style="text-align: center; width: 100vw; border-collapse: collapse;">
+  <table style="text-align: center; width: 100%; border-collapse: collapse; margin-top: 25px;">
+  <tr>
   <tr height="80px">
     <th>
     Languages
