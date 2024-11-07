@@ -1,18 +1,17 @@
 <h1 align="left" id="header">:wave: Hi there! Im kkwlkk.</h1>
 <h2 align="left">Actually its wlk but it was taken already :pensive:</h2>
 
-<div style="display: flex; gap: 5px; flex-direction: row;">
-  <ul style="width: 50%;">
-  <li>:mortar_board: Software enthusiast with experience in web development and backend development</li>
-  <li>:books: Learning new things everyday!</li>
-  <li>:briefcase: Currently, I mainly work as a freelancer</li>
-  <li>:cat: Loving dad of a short-haired british female cat</li>
-</ul>
-
- <div style="width: 50%;">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkwlkk&theme=react&hide_border=true" alt="kkwlkk" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkwlkk&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kkwlkk" />
- </div>
+<div style="display: flex; gap: 5px; justify-content: center;">
+  <ul style="width: 50%; list-style: none; padding-left: 0;">
+    <li>🎓 Software enthusiast with experience in web development and backend development</li>
+    <li>📚 Learning new things everyday!</li>
+    <li>💼 Currently, I mainly work as a freelancer</li>
+    <li>🐱 Loving dad of a short-haired British female cat</li>
+  </ul>
+  <div style="width: 50%; display: flex; flex-direction: column; align-items: flex-start;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkwlkk&theme=react&hide_border=true" alt="kkwlkk" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkwlkk&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kkwlkk" />
+  </div>
 </div>
 
   <table style="text-align: center; width: 100%; border-collapse: collapse; margin-top: 25px;">
