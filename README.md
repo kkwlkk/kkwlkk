@@ -1,16 +1,163 @@
-## Hi there 👋
+<h1 align="left" id="header">:wave: Hi there! Im kkwlkk.</h1>
+<h3 align="left" style="margin-top: -30px; font-size: 15px; font-weight: 700; opacity: 50%">Actually its wlk but it was taken already :pensive:</h3>
 
-<!--
-**kkwlkk/kkwlkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; justify-content: space-between; gap: 0px;">
+  <img src="https://raw.githubusercontent.com/kkwlkk/github-stats-transparent/output/generated/overview.svg" alt="kkwlkk" style="width: 50%;" />
+  <img src="https://raw.githubusercontent.com/kkwlkk/github-stats-transparent/output/generated/languages.svg" alt="kkwlkk" style="width: 50%;" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table style="text-align: center; width: 100vw; border-collapse: collapse;">
+  <tr height="80px">
+    <th>
+    Languages
+    </th>
+        <td width="80px">
+        <img src="./assets/javascript.svg" width="48" height="48" alt="Javascript" />
+        <br>Javascript
+    </td>
+    <td width="80px">
+        <img src="./assets/typescript.svg" width="48" height="48" alt="Python" />
+        <br>Typescript
+    </td>
+            <td width="80px">
+        <img src="./assets/csharp.svg" width="48" height="48" alt="Python" />
+        <br>C#
+    </td>
+    <td width="80px">
+        <img src="./assets/python.svg" width="48" height="48" alt="Python" />
+        <br>Python
+    </td>
+  </tr>
+<tr height="80px">
+    <th rowspan="2">
+      Web Development
+    </th>
+             <td width="80px">
+                <img src="./assets/html.svg" width="48" height="48" alt="HTML" />
+        <br>HTML
+    </td>
+             <td width="80px">
+                <img src="./assets/css.svg" width="48" height="48" alt="CSS" />
+        <br>CSS
+    </td>
+    <td width="80px">
+      <img src="./assets/reactjs.svg" width="48" height="48" alt="ReactJS" />
+      <br>React.js
+    </td>
+    <td width="80px">
+      <img src="./assets/vite.svg" width="48" height="48" alt="Vite" />
+      <br>Vite
+    </td>
+  </tr>
+  <tr height="80px">
+      <td width="80px">
+      <img src="./assets/redux.svg" width="48" height="48" alt="Redux" />
+      <br>Redux
+    </td>
+        <td width="80px">
+      <img src="./assets/redux-saga.svg" width="48" height="48" alt="Redux-Saga" />
+      <br>Redux-Saga
+    </td>
+    <td width="80px">
+      <img src="./assets/tailwindcss.svg" width="48" height="48" alt="Tailwindcss" />
+      <br>Tailwindcss
+    </td>
+       <td width="80px">
+      <img src="./assets/chakraui.svg" width="48" height="48" alt="Chakra UI" />
+      <br>Chakra UI
+    </td>
+  </tr>
+  <tr height="80px">
+    <th>
+    Backend Development
+    </th>
+            <td width="80px">
+        <img src="./assets/nodejs.svg" width="48" height="48" alt="Dotnet" />
+        <br>Node.js
+        <td width="80px">
+        <img src="./assets/dotnet.svg" width="48" height="48" alt="Dotnet" />
+        <br>.NET
+    </td>
+        <td width="80px">
+        <img src="./assets/express.svg" width="48" height="48" alt="Express.js" />
+        <br>Express.js
+    </td>
+     <td width="80px">
+    </td>
+  </tr>
+    <tr height="80px">
+    <th rowspan="2">
+    Database
+    </th>
+         <td width="80px">
+                 <img src="./assets/mysql.svg" width="48" height="48" alt="MySQL" />
+        <br>MySQL
+    </td>
+         <td width="80px">
+                 <img src="./assets/mariadb.svg" width="48" height="48" alt="MariaDB" />
+        <br>MariaDB
+    </td>
+         <td width="80px">
+                     <img src="./assets/postgresql.svg" width="48" height="48" alt="PostgreSQL" />
+        <br>PostgreSQL
+    </td>
+         <td width="80px">
+                     <img src="./assets/redis.svg" width="48" height="48" alt="Redis" />
+        <br>Redis
+    </td>
+  </tr>
+  <tr>
+           <td width="80px">
+                     <img src="./assets/mongodb.svg" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+    </td>
+               <td width="80px">
+    </td>               <td width="80px">
+    </td>
+                   <td width="80px">
+    </td>
+  </tr>
+  <tr height="80px">
+    <th>
+    Version Control
+    </th>
+         <td width="80px">
+                 <img src="./assets/git.svg" width="48" height="48" alt="Git" />
+        <br>Git
+    </td>
+         <td width="80px">
+                 <img src="./assets/github.svg" width="48" height="48" alt="GitHub" />
+        <br>GitHub
+    </td>
+         <td width="80px">
+                 <img src="./assets/gitlab.svg" width="48" height="48" alt="Gitlab" />
+        <br>Gitlab
+    </td>
+         <td width="80px">
+    </td>
+  </tr>
+  <tr height="80px">
+    <th rowspan="2">
+    Tools
+    </th>
+         <td width="80px">
+                <img src="./assets/docker.svg" width="48" height="48" alt="Docker" />
+        <br>Docker
+    </td>
+         <td width="80px">
+                <img src="./assets/linux.svg" width="48" height="48" alt="Linux" />
+        <br>Linux
+    </td>
+         <td width="80px">
+                <img src="./assets/debian.svg" width="48" height="48" alt="Debian" />
+        <br>Debian
+    </td>
+         <td width="80px">
+                <img src="./assets/ubuntu.svg" width="48" height="48" alt="Ubuntu" />
+        <br>Ubuntu
+    </td>
+  </tr>
+  <tr>
+  </tr>
+  
+</table>
