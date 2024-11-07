@@ -1,7 +1,7 @@
-<p align="left" style="font-size: 30px; font-weight: 800;" id="header">:wave: Hi there! Im kkwlkk.</h1>
-<p align="left" style="font-size: 15px; font-weight: 700; opacity: 50%; margin-top: -20px;">Actually its wlk but it was taken already :pensive:</h3>
+<h1 align="left" id="header">:wave: Hi there! Im kkwlkk.</h1>
+<h2 align="left">Actually its wlk but it was taken already :pensive:</h2>
 
-<div style="display: flex; gap: 5px;">
+<div style="display: flex; gap: 5px; flex-direction: row;">
   <ul style="width: 50%;">
   <li>:mortar_board: Software enthusiast with experience in web development and backend development</li>
   <li>:books: Learning new things everyday!</li>
