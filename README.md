@@ -10,11 +10,12 @@
       <li>🐱 Loving dad of a short-haired British female cat</li>
     </ul>
   </div>
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkwlkk&theme=react&hide_border=true" alt="kkwlkk" style="width: 100%; height: auto;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkwlkk&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kkwlkk" style="width: 100%; height: auto;" />
-  </div>
 </div>
+
+  <div style="flex: 1; display: flex; flex-direction: row; gap: 4px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkwlkk&theme=react&hide_border=true" alt="kkwlkk" style="width: 100%; height: 120px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkwlkk&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kkwlkk" style="width: 100%; height: 120px;" />
+  </div>
 
   <table style="text-align: center; width: 100%; border-collapse: collapse; margin-top: 25px;">
   <tr>
