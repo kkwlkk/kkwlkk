@@ -1,18 +1,22 @@
-<h1 align="left" id="header">:wave: Hi there! Im kkwlkk.</h1>
-<h2 align="left">Actually its wlk but it was taken already :pensive:</h2>
+<h2 align="left" id="header">:wave: Hi there! Im kkwlkk.</h2>
+<h3 align="left">Actually its wlk but it was taken already :pensive:</h3>
 
-<div style="display: flex; gap: 5px; justify-content: center;">
-  <ul style="width: 50%; list-style: none; padding-left: 0;">
-    <li>🎓 Software enthusiast with experience in web development and backend development</li>
-    <li>📚 Learning new things everyday!</li>
-    <li>💼 Currently, I mainly work as a freelancer</li>
-    <li>🐱 Loving dad of a short-haired British female cat</li>
-  </ul>
-  <div style="width: 50%; display: flex; flex-direction: column; align-items: flex-start;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkwlkk&theme=react&hide_border=true" alt="kkwlkk" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkwlkk&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kkwlkk" />
-  </div>
-</div>
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr>
+    <td style="width: 50%; vertical-align: top; padding-right: 10px; border:none">
+      <ul style="list-style: none; padding-left: 0;">
+        <li>🎓 Software enthusiast with experience in web development and backend development</li>
+        <li>📚 Learning new things everyday!</li>
+        <li>💼 Currently, I mainly work as a freelancer</li>
+        <li>🐱 Loving dad of a short-haired British female cat</li>
+      </ul>
+    </td>
+    <td style="width: 50%; vertical-align: top; border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkwlkk&theme=react&hide_border=true" alt="kkwlkk" style="display: block; margin-bottom: 10px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkwlkk&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kkwlkk" style="display: block;" />
+    </td>
+  </tr>
+</table>
 
   <table style="text-align: center; width: 100%; border-collapse: collapse; margin-top: 25px;">
   <tr>
