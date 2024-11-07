@@ -1,7 +1,13 @@
 <h2 align="left" id="header">:wave: Hi there! Im kkwlkk.</h2>
 <h3 align="left">Actually its wlk but it was taken already :pensive:</h3>
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<style>
+  table#header-table td {
+    border: none;
+  }
+</style>
+<table id="header-table">
+  <tbody>
   <tr>
     <td style="width: 50%; vertical-align: top; padding-right: 10px; border:none">
       <ul style="list-style: none; padding-left: 0;">
@@ -12,10 +18,11 @@
       </ul>
     </td>
     <td style="width: 50%; vertical-align: top; border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkwlkk&theme=react&hide_border=true" alt="kkwlkk" style="display: block; margin-bottom: 10px;" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkwlkk&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kkwlkk" style="display: block;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkwlkk&theme=react&hide_border=true" alt="kkwlkk" style="display: block; margin-bottom: 10px; width: 100%; height: 100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkwlkk&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kkwlkk" style="display: block; width: 100%; height: 100%" />
     </td>
   </tr>
+  </tbody>
 </table>
 
   <table style="text-align: center; width: 100%; border-collapse: collapse; margin-top: 25px;">
