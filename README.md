@@ -1,4 +1,4 @@
-# Hello! I'm wlk, a proud Polish Full-Stack Developer 👋🏼
+# Hello! I'm wlk, a Polish Full-Stack Developer 👋🏼
 🏗️ currently developing a versatile utility library for human-like automations in [PuppeteerSharp](https://github.com/hardkoded/puppeteer-sharp).<br/>
 🧑‍💻 freelancing since 2023, transforming ideas into realities.<br/>
 📖 constantly expanding my skills and exploring new topics.
