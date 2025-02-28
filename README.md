@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello! I'm wlk, a proud Polish Full-Stack Developer 👋🏼
+🏗️ currently developing a versatile utility library for human-like automations in [PuppeteerSharp](https://github.com/hardkoded/puppeteer-sharp).<br/>
+🧑‍💻 freelancing since 2023, transforming ideas into realities.<br/>
+📖 constantly expanding my skills and exploring new topics.
 
-<!--
-**kkwlkk/kkwlkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#) [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](#) [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#) [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#) [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#) [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#) [![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff)](#) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#) [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚒️ Projects
+#### [📺 TV Show Time Tracker 📺](https://github.com/kkwlkk/tv-show-time-tracker)<br />
+A versatile two-part tool designed to calculate and compare the total runtime of your favorite TV shows. Quickly determine the overall duration of each series, making it easy to plan what to watch next.
+- C# Console App: Retrieves all aired episodes for a selected show via the TVMaze API and computes the total runtime in minutes.
+- Python Script: Processes multiple show names concurrently by invoking the C# tool for each one, then highlights the shows with the shortest and longest total runtimes.
